@@ -1,0 +1,4 @@
+git commit --amend --date "Wed Feb 11 14:00 1987 +0100"
+
+git verify
+

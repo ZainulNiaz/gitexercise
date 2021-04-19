@@ -1,0 +1,7 @@
+gedit file.txt
+
+git add .
+
+git commit --amend -m "Add Hello world"
+
+

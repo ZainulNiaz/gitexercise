@@ -1,0 +1,7 @@
+git rm ignored.txt
+
+git commit -m "qwe"
+
+git verify
+
+
